@@ -1,0 +1,1 @@
+print('hello ghani from tina')
